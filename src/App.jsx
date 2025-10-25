@@ -60,6 +60,7 @@ function App() {
             <input type="button" value="00" onClick={() => handleButtonClick('00')} />
             <input type="button" value="0" onClick={() => handleButtonClick('0')} />
             <input type="button" value="=" onClick={calculateResult} />
+            <h1>welcom liiban</h1>
           </div>
         </form>
       </div>
